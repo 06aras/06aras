@@ -6,7 +6,7 @@
 -I'm learning PCB board design with Altium Designer
 
 
-<img align="center" alt="GIF" src="https://s1.gifyu.com/images/55409f8554d7fa257a.md.gif" width="553" height="92" />
+<img align="center" alt="GIF" src="https://s1.gifyu.com/images/55409f8554d7fa257a.gif" width="553" height="92" />
 <br />
 
 ### 📩 Contact with me: 
