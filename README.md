@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://s1.gifyu.com/images/codeca3507327e9bb119.gif" width="500" height="338" />
+<img align="right" alt="GIF" src="https://s1.gifyu.com/images/code1.gif" width="400" height="338" />
 
 ## I'm a Student 👨‍🎓,I'm trying to learn software✍, I am dealing with projects in electronic board design!
 -I'm trying to learn new things and improve myself
