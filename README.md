@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="270" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="265" />
 
 
 ## I'm a Student 👨‍🎓,I'm trying to learn software✍, I am dealing with projects in electronic board design!
