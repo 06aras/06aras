@@ -1,9 +1,8 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="265" />
 
 
-## I'm a electrical electronics Engineer 👨‍🎓,I'm trying to learn software✍,
--I'm trying to learn new things and improve myself
--I am working on the Python language.
+## I'm a Electrical Electronics Engineer and Cyber Security Analyst 👨‍🎓
+-I am currently a Cyber Security Analyst intern at IT School, specializing in threat detection, incident response, and risk assessments. I have hands-on experience with intrusion detection systems, vulnerability assessments, and developing incident response protocols to strengthen organizational security. Previously, I contributed to security audits and worked closely with experts to protect critical systems from cyber threats. My goal is to advance in network security, vulnerability management, and incident response, staying ahead of emerging cybersecurity challenges.
 
 
 
@@ -22,7 +21,7 @@
 
 [instagram]: https://www.instagram.com/06aras   
 [linkedin]: https://www.linkedin.com/in/muhammet-furkan-aras-97732324a/
-[gmail]: mailto:arasfurkan82@gmail.com
+[gmail]: mailto:furkanaras062@gmail.com
 <br />
 
 
