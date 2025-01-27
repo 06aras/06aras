@@ -10,8 +10,8 @@
 
 ### 📩 Contact with me: 
 
-[<img align="left" height="28" width="365" src="https://i.hizliresim.com/docip71.png"/>][linkedin]
-[<img align="left" height="28" width="365" src="https://i.hizliresim.com/mvocbph.png" />][instagram]
+[<img align="left" height="28" width="365" src="https://i.hizliresim.com/docip71.png"/   >][linkedin]
+[<img align="left" height="28" width="365" src="https://i.hizliresim.com/mvocbph.png"  />][instagram]
 [<img align="left" height="24" width="24" src="https://cdn-icons-png.flaticon.com/512/281/281752.png" />][gmail]
 
 
